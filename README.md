@@ -31,8 +31,7 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     title="Linux" 
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />    
 <img 
     align="left" 
     alt="Bash"
@@ -40,8 +39,6 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-
-
 <img 
     align="left" 
     alt="Docker"
@@ -49,8 +46,6 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-
-
 <img 
     align="left" 
     alt="Git"
@@ -58,8 +53,6 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
-
-
 <img 
     align="left" 
     alt="Github Actions"
@@ -67,8 +60,6 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-          
-
 <img 
     align="left" 
     alt="Sonar"
@@ -76,8 +67,6 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" />
-          
-
 <img 
     align="left" 
     alt="AWS"
@@ -85,8 +74,6 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-
 <img 
     align="left" 
     alt="Azure"
@@ -183,7 +170,6 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" />
-
 <img
     align="left" 
     alt="Azure Devops"
