@@ -25,7 +25,6 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
 
 ### 🚀 Tools & Technologies
 
-<br/>
 
 <img 
     align="left" 
@@ -33,7 +32,7 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     title="Linux" 
     width="30px" 
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" /> 
 <img 
     align="left" 
     alt="Bash"
