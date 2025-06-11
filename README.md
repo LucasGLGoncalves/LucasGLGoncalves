@@ -84,6 +84,7 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
 
 <br/>
 <br/>
+
 <img 
     align="left" 
     alt="Kubernetes"
@@ -142,6 +143,7 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
 
 <br/>
 <br/>
+
 <img 
     align="left" 
     alt="Jaeger"
