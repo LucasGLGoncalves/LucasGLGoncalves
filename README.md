@@ -27,7 +27,7 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
 <br/>
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="">
     <img
       src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,docker,git,githubactions,sonarqube,aws,azure,openshift,kubernetes,ansible,terraform,helm,prometheus,grafana,jira,azuredevops,datadog,flutter,golang,assembly,c,unrealengine,rails&perline=6&titles=true&theme=auto"/>
   </a><br/>
