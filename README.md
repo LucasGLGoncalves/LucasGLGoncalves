@@ -32,11 +32,11 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
       src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,docker,git,githubactions,sonarqube,aws,azure,openshift,kubernetes,ansible,terraform,helm,prometheus,grafana,jira,azuredevops,datadog,flutter,golang,assembly,c,unrealengine,rails&perline=6&titles=true&theme=auto"/>
   </a><br/>
   <span>
-  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/confluence-auto.svg" width="50"> &nbsp;
-  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/jaeger-auto.svg" width="50"> &nbsp;
-  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/playfab-auto.svg" width="50"> &nbsp;
-  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/portainer-auto.svg" width="50"> &nbsp;
-  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/rancher-auto.svg" width="50"> &nbsp;
+  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/confluence-auto.svg" width="50">&nbsp;
+  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/jaeger-auto.svg" width="50">&nbsp;
+  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/playfab-auto.svg" width="50">&nbsp;
+  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/portainer-auto.svg" width="50">&nbsp;
+  <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/rancher-auto.svg" width="50">&nbsp;
   <img src="https://raw.githubusercontent.com/LucasGLGoncalves/skill-icons/c38d0b1abd225698032dedac7ee1970ce013ecd6/assets/opentelemetry-auto.svg" width="50">
   </span>
 </p>           
