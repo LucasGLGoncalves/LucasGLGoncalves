@@ -32,7 +32,6 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LucasGLGoncalves&show_icons=true&theme=tokyonight&include_all_commits=true&Locale=en" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
