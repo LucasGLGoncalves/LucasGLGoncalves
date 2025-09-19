@@ -2,7 +2,7 @@
 
 **`DevOps & SRE Engineer`**
 
-My name is Lucas Gabriel de Lima Gonçalves. I was born in 1997 and I'm from Porto Velho, Rondônia, Brazil. I hold a degree in Information Systems Management and postgraduate degrees in Process and Project Management as well as Higher Education Teaching, along with a specialization in DevOps. I have over 10 years of experience in the technology field, with solid backgrounds as a developer, DevOps specialist, and agile project manager. I’m passionate about innovation, education, and digital transformation, and I share my knowledge as a university professor and mentor in areas such as SCRUM, DevOps, CyberSecurity, CI/CD, IaC, and Agile Methodologies.
+My name is Lucas Gabriel de Lima Gonçalves. I was born in 1997 and I'm from Porto Velho, Rondônia, Brazil. I hold a degree in Information Systems Management and postgraduate degrees in Process and Project Management as well as Higher Education Teaching, along with a specialization in DevOps. I have over 10 years of experience in the technology field, with solid backgrounds as a developer, DevOps specialist, and agile project manager. I’m passionate about innovation, education, and digital transformation, and I share my knowledge as a university professor and mentor in areas such as SCRUM, DevOps, Cyber Security, CI/CD, IaC, and Agile Methodologies.
 
 As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BASIC programming on my Commodore 64 and ZX Spectrum.
 
