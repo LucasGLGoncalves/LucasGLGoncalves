@@ -24,21 +24,11 @@ As a hobby, I enjoy studying Assembly for the MOS 6502 and experimenting with BA
 
 ### 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LucasGLGoncalves&show_icons=true&theme=tokyonight&include_all_commits=true&Locale=en" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGLGoncalves&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
+<a href="https://github.com/Pranesh-2005/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=LucasGLGoncalves&theme=tokyonight&include_all_commits=false&Locale=en" />
+</a>
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=300 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=LucasGLGoncalves&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <br/>
