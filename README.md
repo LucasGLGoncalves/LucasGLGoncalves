@@ -19,7 +19,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--lima--goncalves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-lima-goncalves)
 [![Medium](https://img.shields.io/badge/Medium-lucas.gl.devops-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucas.gl.devops)
 [![Email](https://img.shields.io/badge/Email-lucas.gabrielsglgl%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.goncalves.devops@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Site-lucasgabrielsglgl.link-1A1A2E?style=for-the-badge&logo=firefox&logoColor=white)](https://lucasgabrielsglgl.link)
+[![Portfolio](https://img.shields.io/badge/Site-lucasgabrielsglgl.link-1A1A2E?style=for-the-badge&logo=gravatar&logoColor=white)](https://lucasgabrielsglgl.link)
+[![Knowledge](https://img.shields.io/badge/Knowledge-personal--learning--path-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://lucasglgoncalves.github.io/Personal-Leaning-Path/)
 
 </div>
 
