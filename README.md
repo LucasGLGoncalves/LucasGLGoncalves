@@ -131,7 +131,7 @@ drwxr-xr-x  CREA-RO                                 Jan/2014 → Oct/2016   Back
 
 **`// Currently open to DevOps · DevSecOps · Platform Engineering · SRE roles`**
 
-*Remote-first · Open to relocation globally · Portfolio: [lucasgabrielsglgl.link](https://lucasgabrielsglgl.link)*
+*Open to relocation globally · Portfolio: [lucasgabrielsglgl.link](https://lucasgabrielsglgl.link)*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=LucasGLGoncalves&color=4EC9B0&style=for-the-badge&label=PROFILE+VIEWS)
 
