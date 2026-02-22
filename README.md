@@ -86,6 +86,8 @@ drwxr-xr-x  CREA-RO                                 Jan/2014 → Oct/2016   Back
 
 </div>
 
+> ☝🤓 It's also possible to view my tools knowledge by following the link of the **[Personal-Leaning-Path Page](https://lucasglgoncalves.github.io/Personal-Leaning-Path/)**
+
 ---
 
 ## `$ git log --oneline --highlights`
